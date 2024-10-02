@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fetch Exercise Oleksandr Bezushko</string>
+    <string name="list_error_loading">There was an error loading the list. Please try again later.</string>
+    <string name="try_again">Try Again</string>
+</resources>
