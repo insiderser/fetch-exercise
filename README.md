@@ -1,6 +1,6 @@
 # Fetch Rewards Coding Exercise
 
-![](docs/screen-20241002-160728.mp4)
+[Screen recording](docs/screen-20241002-160728.mp4)
 
 The project uses the following technologies:
 
